@@ -149,9 +149,7 @@ authorName.style.fontSize = '20px';
 wrapper.append(authorName);
 
 
-
-
-//alert("Я оцениваю свою работу на 100 баллов");
+alert("Я оцениваю свою работу на 100 баллов");
 
 
 
